@@ -117,7 +117,9 @@ Done  work:
 
 ## History
 
-* **v1.2.12** : 2016-01-288
+* **v2.0.3** : 2016-01-30
+  * fix EventService.class ipc  
+* **v1.2.12** : 2016-01-28
   * fix EBusService.class initConf 
 * **v1.2.1** : 2016-01-06
   * add config connErrTimesStop param to stop connect
