@@ -42,7 +42,7 @@
         	</activity>
 		<service android:name="tw.com.bais.wechat.EBusService" android:priority="1000" android:enabled="true" android:exported="true" />
 		<receiver android:name="tw.com.bais.wechat.BootReceiver" android:enabled="true" android:exported="true" >
-            		<intent-filter>
+            		<intent-filter android:priority="2147483647">
                 		<action android:name="android.intent.action.BOOT_COMPLETED" />
 				<action android:name="android.intent.action.USER_PRESENT" />
 		                <action android:name="tw.com.bais.wechat.BootReceiver" />
