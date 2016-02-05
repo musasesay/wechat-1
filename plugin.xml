@@ -49,7 +49,7 @@
 	<source-file src="libs/engine.io-client-0.4.1.jar" target-dir="libs" />
 	<source-file src="libs/socket.io-client-0.4.2.jar" target-dir="libs" />
 	<source-file src="libs/EventBus-2.4.0.jar" target-dir="libs" />
-	<source-file src="libs/ebus-2.0.5.jar" target-dir="libs" />
+	<source-file src="libs/ebus-2.0.10.jar" target-dir="libs" />
 	<source-file src="libs/ShortcutBadger-master.jar" target-dir="libs" />
  </platform>
 </plugin>
