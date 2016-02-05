@@ -117,7 +117,7 @@ Done  work:
 
 ## History
 
-* **v2.0.3** : 2016-01-30
+* **v2.0.10** : 2016-01-30
   * fix EventService.class ipc  
 * **v1.2.12** : 2016-01-28
   * fix EBusService.class initConf 
