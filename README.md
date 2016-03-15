@@ -13,8 +13,8 @@ configure
 var conf ={ serverip:"yourserverip" ,                           //connect server  ip
                     port: 0,				        //connect server  port
                     notifyTarget: "tw.com.my.MainActivity",     //main notification  target  MainActivity
-                    notifyTitle: "news",			//show  notification  titile
 		    notifyTicker: "message",			//show  notification  ticker
+                    notifyTitle: "news",			//show  notification  titile if notifyTitle == "", data---> "data": "who:sayContent"
                     hasVibrate: true,			        //vibrate  open or not
                     hasSound: true,		 	        //sound    open  or  not
                     hasRecieve: false,			        // message   recieved  or not
@@ -117,8 +117,8 @@ Done  work:
 
 ## History
 
-* **v2.0.10** : 2016-01-30
-  * fix EventService.class ipc  
+* **v2.0.10** : 2016-03-15
+  * fix EventService.class ipc 
 * **v1.2.12** : 2016-01-28
   * fix EBusService.class initConf 
 * **v1.2.1** : 2016-01-06
