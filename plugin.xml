@@ -8,7 +8,7 @@
   <dependency id="org.apache.cordova.device" />
 
   <engines>
-    <engine name="cordova" version=">=5.3.3"/>
+    <engine name="cordova" version=">=4.1.1"/>
   </engines>
 
   <js-module src="www/wechat.js" name="WeChat">
