@@ -117,6 +117,7 @@ Done  work:
 
 ## History
 
+* **v2.0.13** : 2016-04-15
 * **v2.0.12** : 2016-03-16
   * fix EventService.class ipc 
 * **v1.2.11** : 2016-03-15
